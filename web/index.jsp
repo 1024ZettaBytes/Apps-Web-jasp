@@ -14,7 +14,7 @@
     <body>
         <h1>Hello World!</h1>
         <%
-            out.println("Hola");
+            out.println("Hola amiko");
             %>
     </body>
 </html>
