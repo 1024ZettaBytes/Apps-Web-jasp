@@ -16,7 +16,7 @@
         <form action="calcular.jsp" method="POST">
             <table>
                 <tr>
-                    <td> <a>Ingresa un númer:</a></td>
+                    <td> <a>Ingresa un número:</a></td>
                     <td> <input type="text" name="num1" required /></td>
                 </tr>
                 <tr>
