@@ -1,0 +1,23 @@
+input.input-box, textarea 
+{ 
+    background: gray;
+    color:#0033ff;
+    border-radius: 12px;
+}
+input.input-box:hover, textarea:hover 
+{ 
+    background: yellow;
+  
+}
+.botonAdivinar {
+    background-color: #00cc33;
+    border-radius: 12px;
+    border: 2px solid #006600;
+    color: #006600;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
